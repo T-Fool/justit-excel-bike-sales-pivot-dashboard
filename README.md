@@ -20,7 +20,7 @@ Using a global bike sales dataset, I built an interactive dashboard in Excel to 
 | What country has sales in all product categories? | The **United States, Australia, Germany, and the United Kingdom** all have sales across every product category. | These are the most stable and diverse markets, representing the best opportunities for cross-selling products. |
 
 #### Pivot Table Filtering
-<img width="1277" height="622" alt="pivot table and chart" src="https://github.com/user-attachments/assets/83f6110e-af7d-4dc2-a1b5-5fafe7e8436b" />
+<img width="1273" height="533" alt="Bike_sales_visual_profitable_adults_USA" src="https://github.com/user-attachments/assets/f8ce8d5f-c984-42c1-8d6d-5b623cf9da39" />
 
 
 ## 🛠️ Excel Skills Demonstrated
